@@ -1,0 +1,6 @@
+export TF_VAR_tenancy_ocid="ocid1.tenancy.oc1..aaaaaaaaalqdgfkl4gdmqavfjulnihricehajovjxgpvecztpdc3qdxp4hjq"
+export TF_VAR_user_ocid="ocid1.user.oc1..aaaaaaaa3tuheyoxmnnvmas3zvhf7rbqpgoaszormcyqats4jwb3excd5maq"
+export TF_VAR_fingerprint="f2:4d:3f:e7:95:9d:8f:55:8b:11:d3:51:95:64:e6:fa"
+export TF_VAR_private_key_path="/Users/kewalgill/.oci/oci_api_key.pem"
+export TF_VAR_region="us-phoenix-1"
+export TF_VAR_compartment_ocid="ocid1.tenancy.oc1..aaaaaaaaalqdgfkl4gdmqavfjulnihricehajovjxgpvecztpdc3qdxp4hjq"
